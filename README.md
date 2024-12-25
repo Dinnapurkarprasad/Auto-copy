@@ -13,5 +13,22 @@
   <li>Clone the repository to your local machine.</li>
   <li>Open Chrome and go to chrome://extensions/.</li>
   <li>Enable Developer Mode in the top right corner.</li>
-  <li>Click on <b>Load unpacked</b>and select the folder where you cloned the extension.</li>
+  <li>Click on <b>Load unpacked</b> and select the folder where you cloned the extension.</li>
+  <li>The extension is now ready to use.</li>
 </ul>
+<h2>How It Works</h2>
+<ol>
+  <li>Select any text on a webpage.</li>
+  <li>Upon releasing the mouse, the selected text is automatically copied to your clipboard.</li>
+  <li>A toast notification will appear to confirm that the text has been copied.</li>
+</ol>
+
+<h2>Usage</h2>
+<ol>
+  <li>Select any text on a webpage.</li>
+  <li>Use the extension to quickly copy content without the need to manually use the context menu.</li>
+</ol>
+
+<h2>Contribution</h2>
+<p>Feel free to fork the repository and submit pull requests for new features or improvements.</p>
+
